@@ -14,21 +14,13 @@ body {
     background-color: black;
     width: 100vw;
     height: 20vw;
-    display: inline-block;
+    text-align: center;
 }
 
-.blueBallsGIF {
-    width: 20vw;
-    height: 20vw;
-    position: absolute;
+#blueBallsGIF {
+    width: 18vw;
+    margin-top: 1vw;
 }
-
-.blueBalls {
-    width: 20vw;
-    height: 20vw;
-    position: absolute;
-}
-
 
 
 /* Menu */
