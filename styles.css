@@ -11,10 +11,12 @@ body {
 /* Top nav bar*/
 #navBar {
     position: fixed;
+    top: 0;
     background-color: black;
     width: 100vw;
     height: 20vw;
     text-align: center;
+
 }
 
 #blueBallsGIF {
@@ -32,7 +34,7 @@ body {
     overflow: hidden;
     width: 100%;
     height: 100%;
-    margin-top: 20vw;
+    /* margin-top: 20vw; */
 }
 
 
@@ -237,3 +239,8 @@ body {
     z-index: 20;
 }
 
+
+#indianGuy {
+    position: absolute;
+    margin-top: 50vw;
+}
